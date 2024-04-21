@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pr_28_traffic_lights_Rom_kir" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Pr_28_traffic_lights_Rom_kir" parent="Base.Theme.Pr_28_traffic_lights_Rom_kir" />
+</resources>
